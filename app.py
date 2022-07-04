@@ -1,9 +1,7 @@
 from calendar import month
 import os
-import sqlite3
 from unicodedata import name
 
-# from cs50 import SQL
 from flask import Flask, flash, jsonify, redirect, render_template, request, session
 from flask_sqlalchemy import SQLAlchemy
 
