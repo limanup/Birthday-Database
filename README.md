@@ -15,5 +15,5 @@ To run this application, you need to have `Flask` and `flask_sqlalchemy` install
 To open the web application, run below:
 
 ```
-$ flask run
+flask run
 ```
